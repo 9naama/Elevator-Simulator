@@ -1,2 +1,3 @@
-# Elevator-Simulators
-Simulates an elevator system with a random arrival generator based on input data. 
+# Elevator-Simulator
+Simulates an elevator system that utilizes a complex moving algorithm and input-based arrival generator. 
+Keeps track of simulation statistics including entity waiting time and corresponding anger level.
